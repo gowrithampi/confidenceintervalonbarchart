@@ -1,4 +1,4 @@
 pandas
-numpy
 matplotlib
 scipy
+numpy==1.17.0
